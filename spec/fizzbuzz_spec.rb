@@ -1,5 +1,5 @@
 require_relative './spec_helper.rb'
-require_relative './fizzbuzz.rb'
+require_relative '/home/functional-acrobat-8295/rspec-fizzbuzz-online-web-sp-000/fizzbuzz.rb'
 
 
 describe "fizzbuzz" do
