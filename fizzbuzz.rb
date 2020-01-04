@@ -9,5 +9,5 @@ def fizzbuzz(num)
     puts "Buzz"
   elsif (num % 3 == 0) && (num % 5 == 0)
     puts "FizzBuzz"
-
+  end
 end
